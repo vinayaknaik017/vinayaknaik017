@@ -1,7 +1,7 @@
 # 💫 About Me:
 Currently doing my undergrade in Information Science in Mangalore  
 <p align="center">
-  <img src="https://media4.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="500" alt="DevOps Animated GIF" />
+  <img src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" width="500" alt="DevOps Animated GIF" />
 </p>
 
 # 💻 Tech Stack:
@@ -16,7 +16,6 @@ Currently doing my undergrade in Information Science in Mangalore
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 # 📊 GitHub Stats:
