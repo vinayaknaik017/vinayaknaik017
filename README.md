@@ -5,7 +5,6 @@
 
 ---
 
-### 🎬 DevOps Concepts in Action (Animated)
 
 <p align="center">
   <img src="https://media4.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="700" alt="DevOps Tools Animation" />
