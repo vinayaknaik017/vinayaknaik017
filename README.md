@@ -1,7 +1,7 @@
 # 💫 About Me:
 Currently doing my undergrade in Information Science in Mangalore  
 <p align="center">
-  <img src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" width="500" alt="DevOps Animated GIF" />
+  <img src="https://media4.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="500" alt="DevOps Concept Animation" />
 </p>
 
 # 💻 Tech Stack:
