@@ -8,7 +8,7 @@
 ### 🎬 DevOps Concepts in Action (Animated)
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="600" alt="DevOps Tools Animation" />
+  <img src="https://media4.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="700" alt="DevOps Tools Animation" />
 </p>
 
 ---
@@ -25,13 +25,3 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
----
-
-### 🛠️ DevOps Flow (CI/CD Breakdown)
-
-```mermaid
-graph TD
-  Dev[👨‍💻 Code] --> CI[🔧 Build & Test]
-  CI --> CD[🚀 Deploy]
-  CD --> K8s[☸️ Kubernetes]
-  K8s --> MON[📊 Monitor]
