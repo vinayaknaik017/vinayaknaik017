@@ -3,6 +3,10 @@
 
 ---
 
+<p align="center">
+  <img src="devpic.jpg" alt="Vinayak's Dev Pic" width="300" />
+</p>
+
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
